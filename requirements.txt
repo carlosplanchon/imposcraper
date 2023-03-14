@@ -1,0 +1,4 @@
+requests
+parsel
+fake_useragent
+prettyprinter
