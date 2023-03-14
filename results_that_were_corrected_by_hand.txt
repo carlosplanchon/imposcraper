@@ -1,0 +1,133 @@
+Laws without titles:
+
+[
+    '10674-1945',
+    '11230-1949',
+    '12620-1959',
+    '13086-1962',
+    '13093-1962',
+    '13723-1968',
+    '13782-1969',
+    '16319-1992',
+    '16390-1993',
+    '16409-1993',
+    '17377-2001',
+    '17378-2001',
+    '17379-2001',
+    '17384-2001',
+    '17389-2001',
+    '17648-2003',
+    '17925-2005',
+    '17926-2005',
+    '17927-2005',
+    '18089-2007',
+    '18347-2008',
+    '18501-2009',
+    '18648-2010',
+    '18651-2010',
+    '18710-2010',
+    '18711-2010',
+    '18712-2010',
+    '18716-2010',
+    '18717-2010',
+    '18719-2010',
+    '18886-2012',
+    '18904-2012',
+    '19376-2016',
+    '19377-2016',
+    '19378-2016',
+    '19381-2016',
+    '19388-2016',
+    '19389-2016',
+    '19390-2016',
+    '19391-2016',
+    '19421-2016',
+    '19433-2016',
+    '19459-2016',
+    '19461-2016',
+    '19662-2018',
+    '19783-2019',
+    '19889-2020',
+    '9770-1938',
+    '9781-1938'
+]
+
+Laws where content had to be taken by hand because IMPO said the content was described as "Resumen" (summary):
+
+############################################################
+LAW URL: https://www.impo.com.uy/bases/leyes/6991-1919                                                                                                                   
+LAW TITLE: ACUERDOS INTERNACIONALES. APROBACION DE TRATADO DE PAZ                                                                                                        
+LAW ID: 6991-1919
+############################################################
+LAW URL: https://www.impo.com.uy/bases/leyes/6895-1919                                                                                                                   
+LAW TITLE: CHEQUES. CUENTAS CORRIENTES BANCARIAS. REGULACION                                                                                                             
+LAW ID: 6895-1919
+############################################################
+LAW URL: https://www.impo.com.uy/bases/leyes/6105-1918       
+LAW TITLE: ACUERDOS INTERNACIONALES. APROBACION DE TRATADO DE LIMITES CON BRASIL
+LAW ID: 6105-1918
+############################################################                                                                                                             
+LAW URL: https://www.impo.com.uy/bases/leyes/5637-1918                                                                                                                   
+LAW TITLE: CODIGO PENAL. MODIFICACION                                               
+LAW ID: 5637-1918
+############################################################
+LAW URL: https://www.impo.com.uy/bases/leyes/5618-1917
+LAW TITLE: LEY DE SUBSISTENCIAS          
+LAW ID: 5618-1917
+############################################################                        
+LAW URL: https://www.impo.com.uy/bases/leyes/5520-1916                              
+LAW TITLE: CODIGO PENAL. MODIFICACION                                                                                                                                    
+LAW ID: 5520-1916                                                                   
+############################################################                        
+LAW URL: https://www.impo.com.uy/bases/leyes/5350-1915                              
+LAW TITLE: LEY DE LAS OCHO HORAS                                                                                                                                         
+LAW ID: 5350-1915                         
+############################################################
+LAW URL: https://www.impo.com.uy/bases/leyes/5186-1914                              
+LAW TITLE: ACUERDOS INTERNACIONALES. APROBACION DE LA CONVENCION INTERNACIONAL DEL OPIO                                                                                  
+LAW ID: 5186-1914                                                                                                                                                        
+############################################################
+LAW URL: https://www.impo.com.uy/bases/leyes/4864-1914                              
+LAW TITLE: ACUERDOS INTERNACIONALES. APROBACION DE CONVENCION COMERCIAL ENTRE URUGUAY Y BRASIL                                                                           
+LAW ID: 4864-1914                                                                   
+############################################################
+LAW URL: https://www.impo.com.uy/bases/leyes/4203-1912                              
+LAW TITLE: CODIGO PENAL. MODIFICACION
+LAW ID: 4203-1912
+############################################################
+LAW URL: https://www.impo.com.uy/bases/leyes/3789-1911                                                                                                                   
+LAW TITLE: COMISION NACIONAL DE EDUCACION FISICA. CREACION. COMETIDOS                                                                                                    
+LAW ID: 3789-1911
+############################################################
+LAW URL: https://www.impo.com.uy/bases/leyes/3738-1911                                                                                                                   
+LAW TITLE: MENORES. PATRIA POTESTAD. TUTELA                                                                                                                              
+LAW ID: 3738-1911
+############################################################
+LAW URL: https://www.impo.com.uy/bases/leyes/3728-1910       
+LAW TITLE: CODIGO PENAL. MODIFICACION                                               
+LAW ID: 3728-1910
+############################################################                                                                                                             
+LAW URL: https://www.impo.com.uy/bases/leyes/3577-1909                                                                                                                   
+LAW TITLE: ACUERDOS INTERNACIONALES. APROBACION DE TRATADO DE LIMITES CON BRASIL    
+LAW ID: 3577-1909
+############################################################
+LAW URL: https://www.impo.com.uy/bases/leyes/3238-1907
+LAW TITLE: ABOLICION DE LA PENA DE MUERTE
+LAW ID: 3238-1907
+############################################################                        
+LAW URL: https://www.impo.com.uy/bases/leyes/2632-1900                              
+LAW TITLE: MINISTERIO PUBLICO. ADMINISTRACION DE JUSTICIA. FISCALIAS                                                                                                     
+LAW ID: 2632-1900                                                                   
+############################################################                        
+LAW URL: https://www.impo.com.uy/bases/leyes/2631-1900                              
+LAW TITLE: ACUERDOS INTERNACIONALES. ADHESION A LA CONVENCION DE GINEBRA                                                                                                 
+LAW ID: 2631-1900                         
+############################################################
+LAW URL: https://www.impo.com.uy/bases/leyes/2207-1892                              
+LAW TITLE: ACUERDOS INTERNACIONALES. CONGRESO INTERNACIONAL SUDAMERICANO                                                                                                 
+LAW ID: 2207-1892                                                                                                                                                        
+############################################################
+LAW URL: https://www.impo.com.uy/bases/leyes/1587-1882                              
+LAW TITLE: ACUERDOS INTERNACIONALES. APROBACION DE TRATADO DE PAZ Y AMISTAD CON                                                                                          
+ESPAÑA                                                                              
+LAW ID: 1587-1882
